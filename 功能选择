@@ -31,7 +31,7 @@
           LuCI ---> Applications ---> luci-app-clamav  #ClamAV杀毒软件
           LuCI ---> Applications ---> luci-app-commands   #Shell命令模块
           LuCI ---> Applications ---> luci-app-cshark   #CloudShark捕获工具
-          LuCI ---> Applications ---> luci-app-ddns   #动态域名 DNS（集成阿里DDNS客户端）
+ 是       LuCI ---> Applications ---> luci-app-ddns   #动态域名 DNS（集成阿里DDNS客户端）
           LuCI ---> Applications ---> luci-app-diag-core   #core诊断工具
           LuCI ---> Applications ---> luci-app-diskman   #磁盘管理工具
           	luci-app-diskman ---> Include btrfs-progs   #新型的写时复制 (COW)
@@ -49,7 +49,7 @@
           LuCI ---> Applications ---> luci-app-familycloud   #家庭云盘
           LuCI ---> Applications ---> luci-app-filetransfer  #文件传输（可web安装ipk包）
           LuCI ---> Applications ---> luci-app-firewall   #添加防火墙
- 是       LuCI ---> Applications ---> luci-app-flowoffload  #Turbo ACC网络加速（集成FLOW,BBR,NAT,DNS...
+          LuCI ---> Applications ---> luci-app-flowoffload  #Turbo ACC网络加速（集成FLOW,BBR,NAT,DNS...
           LuCI ---> Applications ---> luci-app-freifunk-diagnostics   #freifunk组件 诊断（未知）
           LuCI ---> Applications ---> luci-app-freifunk-policyrouting  #freifunk组件 策略路由（未知）
           LuCI ---> Applications ---> luci-app-freifunk-widgets  #freifunk组件 索引（未知）
@@ -76,7 +76,7 @@
           LuCI ---> Applications ---> luci-app-mwan   #MWAN负载均衡（已弃）
           LuCI ---> Applications ---> luci-app-music-remote-center   #PCHiFi 数字转盘遥控
  是       LuCI ---> Applications ---> luci-app-mwan3   #MWAN3负载均衡
-          LuCI ---> Applications ---> luci-app-mwan3helper   #MWAN3分流助手
+ 是       LuCI ---> Applications ---> luci-app-mwan3helper   #MWAN3分流助手
           LuCI ---> Applications ---> luci-app-n2n_v2   #N2N内网穿透 N2N v2 virtual**服务
           LuCI ---> Applications ---> luci-app-netdata  #Netdata实时监控（图表）
           LuCI ---> Applications ---> luci-app-nfs   #NFS网络共享
@@ -112,7 +112,7 @@
           LuCI ---> Applications ---> luci-app-rp-pppoe-server  #Roaring Penguin PPPoE Server 服务器
           LuCI ---> Applications ---> luci-app-samba   #网络共享（Samba）
           LuCI ---> Applications ---> luci-app-samba4   #网络共享（Samba4）
-          LuCI ---> Applications ---> luci-app-sfe  #Turbo ACC网络加速（flowoffload二选一）
+ 是       LuCI ---> Applications ---> luci-app-sfe  #Turbo ACC网络加速（flowoffload二选一）
           LuCI ---> Applications ---> luci-app-违禁软件   #SS打倒美帝（已弃）
           LuCI ---> Applications ---> luci-app-违禁软件-libes  #SS-libev服务端
           LuCI ---> Applications ---> luci-app-shairplay  #支持AirPlay功能

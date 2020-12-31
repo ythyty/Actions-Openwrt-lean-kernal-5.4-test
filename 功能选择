@@ -49,7 +49,7 @@
           LuCI ---> Applications ---> luci-app-familycloud   #家庭云盘
           LuCI ---> Applications ---> luci-app-filetransfer  #文件传输（可web安装ipk包）
           LuCI ---> Applications ---> luci-app-firewall   #添加防火墙
-          LuCI ---> Applications ---> luci-app-flowoffload  #Turbo ACC网络加速（集成FLOW,BBR,NAT,DNS...
+ 是       LuCI ---> Applications ---> luci-app-flowoffload  #Turbo ACC网络加速（集成FLOW,BBR,NAT,DNS...
           LuCI ---> Applications ---> luci-app-freifunk-diagnostics   #freifunk组件 诊断（未知）
           LuCI ---> Applications ---> luci-app-freifunk-policyrouting  #freifunk组件 策略路由（未知）
           LuCI ---> Applications ---> luci-app-freifunk-widgets  #freifunk组件 索引（未知）
@@ -112,7 +112,7 @@
           LuCI ---> Applications ---> luci-app-rp-pppoe-server  #Roaring Penguin PPPoE Server 服务器
           LuCI ---> Applications ---> luci-app-samba   #网络共享（Samba）
           LuCI ---> Applications ---> luci-app-samba4   #网络共享（Samba4）
- 是       LuCI ---> Applications ---> luci-app-sfe  #Turbo ACC网络加速（flowoffload二选一）
+          LuCI ---> Applications ---> luci-app-sfe  #Turbo ACC网络加速（flowoffload二选一）
           LuCI ---> Applications ---> luci-app-违禁软件   #SS打倒美帝（已弃）
           LuCI ---> Applications ---> luci-app-违禁软件-libes  #SS-libev服务端
           LuCI ---> Applications ---> luci-app-shairplay  #支持AirPlay功能

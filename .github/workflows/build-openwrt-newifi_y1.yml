@@ -1,4 +1,4 @@
-name: Build OpenWrt
+name: Build OpenWrt for newifi-y1
 
 on:
   watch:

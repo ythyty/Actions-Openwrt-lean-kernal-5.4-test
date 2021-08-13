@@ -1,4 +1,4 @@
-name: Build OpenWrt
+name: Build OpenWrt for E8350
 
 on:
 #  release:
@@ -18,7 +18,7 @@ on:
     inputs:
       SSH1:
         description: 'SSH connection to Actions?'
-        required: false
+        required: true
         default: 'false'
 
 env:
